@@ -1064,4 +1064,4 @@
         center.y /= points.length;
         return center;
     };
-}(window.venn = window.venn || {}));
+}(typeof exports === 'object' ? exports : window.venn = window.venn || {}));

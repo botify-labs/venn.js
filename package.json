@@ -1,0 +1,19 @@
+{
+  "name": "venn.js",
+  "main": "venn.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/botify-labs/venn.js",
+  "authors": [
+    "Ben Frederickson (ben@benfrederickson.com)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/botify-labs/venn.js.git"
+  },
+  "description": "A javascript library for laying out area proportional venn and euler diagrams",
+  "keywords": [
+    "venn",
+    "euler"
+  ],
+  "license": "MIT"
+}
